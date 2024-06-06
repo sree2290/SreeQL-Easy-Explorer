@@ -89,7 +89,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Sree - [Website](sree2290.github.io)
+Sree - [Website](https://sree2290.github.io/).
+
 
 Project Link: [SreeQL-Easy-Explorer](https://github.com/sree2290/SreeQL-Easy-Explorer)
 

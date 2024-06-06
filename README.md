@@ -15,6 +15,17 @@ SreeQL Easy Explorer is a user-friendly interface designed to simplify interacti
 ## Screenshots
 
 
+
+Login Page             |  Database and table selection | table with operations  
+:-------------------------:|:-------------------------:|:-------------------------:
+![image](https://github.com/sree2290/SreeQL-Easy-Explorer/assets/61355197/ae4fb76f-49c0-4d9f-9108-a848d8926936) |  ![image](https://github.com/sree2290/SreeQL-Easy-Explorer/assets/61355197/0871b2a7-8434-4c71-a5f5-0e90ffb20768) | ![image](https://github.com/sree2290/SreeQL-Easy-Explorer/assets/61355197/c0d7664d-7ec2-44d7-9705-6f49d5a3217c)|
+          
+
+plot from table            |  Coloring the tables  |  custome query 
+:-------------------------:|:-------------------------:|:-------------------------:
+![image](https://github.com/sree2290/SreeQL-Easy-Explorer/assets/61355197/3f0dead2-5683-4e65-89d1-3b48f1840e10)| ![image](https://github.com/sree2290/SreeQL-Easy-Explorer/assets/61355197/19497062-5d07-415a-b915-e914d00bc13f) |  ![image](https://github.com/sree2290/SreeQL-Easy-Explorer/assets/61355197/2a0bf384-5d86-4ad4-935e-4a423101c699)
+
+
 ## Installation
 
 To get started with SreeQL Easy Explorer, follow these steps:
